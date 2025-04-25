@@ -37,18 +37,19 @@ metascore → Metascore Rating
 gross(M) → Box Office Collection (in million dollars)
 
 
-**Installation & Setup**
-1️ Clone the Repository
+### Installation & Setup
+
+**1️ Clone the Repository**
 
 git clone https://github.com/TilottamaShinde/Data_Analysis_Projects.git
 
 cd Data_Analysis_Projects/IMDB_Movie_Analysis
 
-2️ Install Dependencies
+**2️ Install Dependencies**
 
 pip install pandas matplotlib seaborn
 
-3️ Run the Script
+**3️ Run the Script**
 
 python IMDB_Movie_Analysis.py
 
