@@ -54,7 +54,7 @@ pip install pandas matplotlib seaborn
 python IMDB_Movie_Analysis.py
 
 
-**Features & Analysis**
+### Features & Analysis
 
 - Top Movies per Decade → Identifies the highest-rated movie from each decade.
   
@@ -62,7 +62,7 @@ python IMDB_Movie_Analysis.py
   
 - IMDB Rating Distribution → Visualizes how movie ratings are distributed.
 
-**Visualizations**
+### Visualizations
 
 The project includes various plots:
 
@@ -70,7 +70,7 @@ Bar Charts for top-rated movies & genres
 
 Histograms for IMDB rating distribution
 
-**Technologies Used**
+### Technologies Used
 
 Python 
 
